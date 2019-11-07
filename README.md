@@ -10,6 +10,7 @@
 ```
 
 # 这是一次实验
+![](https://github.com/JanoChenJava/test/blob/master/image/emp.png)
 **这是直接的文字**
 ```js
     function fun(){
