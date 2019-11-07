@@ -1,5 +1,20 @@
 # 课堂用于MySQL数据库的数据
 ## 第一张表
-
-![image1](img/1.png)
 ### test
+```c
+  #include<stdio.h>
+  int main(){
+  
+  return 0;
+  }
+```
+
+# 这是一次实验
+**这是直接的文字**
+```js
+    function fun(){
+         echo "这是一句非常牛逼的代码";
+    }
+    fun();
+```
+## 这是第二次实验
